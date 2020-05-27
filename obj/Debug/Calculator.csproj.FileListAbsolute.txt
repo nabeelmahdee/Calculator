@@ -1,0 +1,54 @@
+C:\Users\nabee\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nabee\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\nabee\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nabee\source\repos\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nabee\source\repos\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\nabee\source\repos\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\nabee\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\nabee\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\nabee\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_2\Calculator\obj\Debug\Calculator.pdb
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\bin\Debug\Calculator.exe
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\obj\Debug\Calculator.exe
+C:\Users\nabee\Desktop\Calculator_version_3\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_4\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\Calculator_Version_5\Calculator\obj\Debug\Calculator.pdb
